@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/SEMESTER 2 TEKNIK INFORMATIKA 3D/SDA/TUBES/C4_DataStructureAlgorithm",
-      "program": "d:/SEMESTER 2 TEKNIK INFORMATIKA 3D/SDA/TUBES/C4_DataStructureAlgorithm/build/Debug/outDebug",
+      "cwd": "c:/Users/ibnu rizzler/OneDrive - Politeknik Negeri Bandung/Matkul/Semester 2/SDA Praktek - Bu Ade/TUBES/C4_DataStructureAlgorithm",
+      "program": "c:/Users/ibnu rizzler/OneDrive - Politeknik Negeri Bandung/Matkul/Semester 2/SDA Praktek - Bu Ade/TUBES/C4_DataStructureAlgorithm/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
