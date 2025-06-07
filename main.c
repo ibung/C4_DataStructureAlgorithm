@@ -1,12 +1,11 @@
 // File: main.c
 #include "stdio.h"
 #include "stdlib.h"
-
 #include "include/Dzakir_BST.h"
 #include "include/Fatimah_DLL.h"
 #include "include/Rizky_HeapParser.h"
-#include "include/Ibnu_SLL.h"   
-#include "include/Abi_StockIntegration.h"
+#include "include/Ibnu_SLL.h"  
+#include "include/menu_stack.h"  // TAMBAHKAN BARIS INI
 
 BST_Node* field_index = NULL;
 MenuStack* menu_history = NULL;
